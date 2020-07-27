@@ -6,6 +6,7 @@ However when running this on any site I am only allowed a HTTP request. Since Gi
 To allow access Serpstac charges users £30 a month subscription fee for the HTTPS request usage of their API. Since this is a learning experiment I did not want to pay £30 a month.
 For the future I will look into a different API provider to see if I can find one for free entirely.
 
+# How the app works.
 In this search engine users are able to define their own Query and enter it into the search bar. 
 When pressing enter 10 results will be listed on the page listed horizontally. The results will have a title that will contain the text of the heading of the site.
 Followed by a snippet of text underneath that will have some snippets picked from the webpage based on their search queries matching to the sites tags.
